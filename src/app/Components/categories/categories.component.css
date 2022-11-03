@@ -1,0 +1,24 @@
+.fondo{
+    background-color: white;
+    
+}
+.txt{
+    font-family: 'Courier New';
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+.boton{
+    margin-top: 20px;
+    margin-left: 70%;
+    width: 100px;
+    height: 45px;
+    border-bottom: 20px;
+}
+.table{
+    margin-top: 20px;
+    margin-left: 35%;
+    width: 600px;
+}
+
+
